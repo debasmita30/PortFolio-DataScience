@@ -204,7 +204,7 @@ export default function App() {
     {
       title: "Core Skills",
       content: (
-        <p className="text-white/80 space-x-2">
+        <div className="flex flex-wrap justify-center text-white/80">
           {[
             "Python",
             "R",
@@ -226,12 +226,12 @@ export default function App() {
               href={skillLinks[skill]}
               target="_blank"
               rel="noreferrer"
-              className="hover:text-pink-300 underline mr-2"
+              className="hover:text-pink-300 underline mr-3 mb-2"
             >
               {skill}
             </a>
           ))}
-        </p>
+        </div>
       ),
     },
     {
