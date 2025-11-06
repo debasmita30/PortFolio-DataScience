@@ -128,7 +128,7 @@ export default function App() {
   const certifications = [
     {
       name: "Oracle Cloud Infrastructure Data Science Professional (1Z0-1110-25) — Oracle (Oct 2025)",
-      link: process.env.PUBLIC_URL + "/certs/Oracle_Data_Science_Professional_1Z0-1110-25.pdf",
+      link: "https://catalog-education.oracle.com/pls/certview/sharebadge?id=A17197A17C6BE25D41B036E39574AA94E4D5871F9F9A1A8CEA14942000654A20",
     },
     {
       name: "Google Advanced Data Analytics — Coursera (Aug 2025)",
@@ -160,7 +160,7 @@ export default function App() {
     },
     {
       name: "Oracle Cloud Infrastructure Generative AI Professional (1Z0-1127-25) — Oracle (Oct 2025)",
-      link: process.env.PUBLIC_URL + "/certs/Oracle_Generative_AI_Professional_1Z0-1127-25.pdf",
+      link: "https://catalog-education.oracle.com/ords/certview/sharebadge?id=AC9C499C0F41EEE55BE2D8A1A4F8F7B8E84D277C0D8701497C5E67763C872358",
     },
   ];
 
