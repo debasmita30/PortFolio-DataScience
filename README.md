@@ -1,4 +1,4 @@
-# Debasmita Chatterjee - Data Scientist Portfolio
+# Debasmita Chatterjee - Data Science Portfolio
 
 Welcome to my personal portfolio showcasing my projects, skills, experience, and certifications in **Data Science**, **GenAI**, and **Emotionally Intelligent AI systems**.
 
