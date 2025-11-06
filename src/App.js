@@ -204,56 +204,34 @@ export default function App() {
     {
       title: "Core Skills",
       content: (
-        <ul className="list-disc ml-5 space-y-1 text-white/80">
-          {["Python", "R", "SQL", "Scala"].map((skill) => (
-            <li key={skill}>
-              <a
-                href={skillLinks[skill]}
-                target="_blank"
-                rel="noreferrer"
-                className="hover:text-pink-300 underline"
-              >
-                {skill}
-              </a>
-            </li>
+        <p className="text-white/80 space-x-2">
+          {[
+            "Python",
+            "R",
+            "SQL",
+            "Scala",
+            "TensorFlow",
+            "PyTorch",
+            "Keras",
+            "Scikit-learn",
+            "Transformer NLP (BERT/GPT)",
+            "RL (PPO)",
+            "Computer Vision",
+            "Pandas",
+            "NumPy",
+            "Statistical Modeling",
+          ].map((skill) => (
+            <a
+              key={skill}
+              href={skillLinks[skill]}
+              target="_blank"
+              rel="noreferrer"
+              className="hover:text-pink-300 underline mr-2"
+            >
+              {skill}
+            </a>
           ))}
-          {["TensorFlow", "PyTorch", "Keras", "Scikit-learn"].map((skill) => (
-            <li key={skill}>
-              <a
-                href={skillLinks[skill]}
-                target="_blank"
-                rel="noreferrer"
-                className="hover:text-pink-300 underline"
-              >
-                {skill}
-              </a>
-            </li>
-          ))}
-          {["Transformer NLP (BERT/GPT)", "RL (PPO)", "Computer Vision"].map((skill) => (
-            <li key={skill}>
-              <a
-                href={skillLinks[skill]}
-                target="_blank"
-                rel="noreferrer"
-                className="hover:text-pink-300 underline"
-              >
-                {skill}
-              </a>
-            </li>
-          ))}
-          {["Pandas", "NumPy", "Statistical Modeling"].map((skill) => (
-            <li key={skill}>
-              <a
-                href={skillLinks[skill]}
-                target="_blank"
-                rel="noreferrer"
-                className="hover:text-pink-300 underline"
-              >
-                {skill}
-              </a>
-            </li>
-          ))}
-        </ul>
+        </p>
       ),
     },
     {
