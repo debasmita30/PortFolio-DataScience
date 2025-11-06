@@ -165,12 +165,13 @@ export default function App() {
   ];
 
   const handleContact = (e) => {
-    e.preventDefault();
-    const { name, email, message } = e.target;
-    window.location.href = `mailto:dmchatterjee2016@gmail.com?subject=Portfolio contact from ${name.value}&body=${encodeURIComponent(
-      message.value
-    )}`;
-  };
+  e.preventDefault();
+  const { name, email, message } = e.target;
+  const mailtoLink = `mailto:dmchatterjee2016@gmail.com?subject=Portfolio Contact from ${name.value}&body=From: ${email.value}%0A%0A${encodeURIComponent(message.value)}`;
+
+  window.location.href = mailtoLink;
+};
+
 
   // Clickable skill links
   const skillLinks = {
