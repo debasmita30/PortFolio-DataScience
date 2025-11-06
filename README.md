@@ -1,74 +1,95 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# Debasmita Chatterjee - Data Scientist Portfolio
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Welcome to my personal portfolio showcasing my projects, skills, experience, and certifications in **Data Science**, **GenAI**, and **Emotionally Intelligent AI systems**.
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## 👩‍💻 About Me
 
-### `npm start`
+I am a data scientist specializing in GenAI and emotionally intelligent AI systems, combining strong programming skills, applied machine learning, and data visualization expertise to deliver innovative AI solutions for real-world challenges.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- 📍 Location: Asansol, West Bengal, India  
+- 📧 Contact: [dmchatterjee2016@gmail.com](mailto:dmchatterjee2016@gmail.com)  
+- 🌐 Website: [Portfolio Live](https://your-netlify-link.netlify.app/)  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠 Skills & Tools
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Core Skills
+- Python | R | SQL | Scala  
+- TensorFlow | PyTorch | Keras | Scikit-learn  
+- Transformer NLP (BERT/GPT) | Reinforcement Learning (PPO) | Computer Vision  
+- Pandas | NumPy | Matplotlib | Statistical Modeling  
 
-### `npm run build`
+### Tools & Visualization
+- Tableau | Power BI | Streamlit | Plotly  
+- Apache Spark | Git | RStudio | Unity | Blender  
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+---
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 📂 Projects
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### 1. GenAI-Driven Pricing Optimization Engine
+- **Tech Stack:** TensorFlow, Keras, PPO, Streamlit  
+- **Description:** Built a GenAI-based dynamic pricing system using reinforcement learning to optimize real-time pricing and recommendations with interactive dashboards.  
+- **GitHub:** [Link](https://github.com/debasmita30/Gen-AI-Powered-Customer-Insights-Recommendation-System)
 
-### `npm run eject`
+### 2. SmartStyle Analytics
+- **Tech Stack:** Streamlit, Plotly, Tableau, ML  
+- **Description:** Developed an AI-powered fashion analytics and recommendation platform integrating dashboards for brand performance insights.  
+- **GitHub:** [Link](https://github.com/debasmita30/SmartStyle-Analytics-AI-Powered-Fashion-Recommendation-Insights-Platform)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+### 3. AI-Powered Return Validation System
+- **Tech Stack:** TensorFlow, Scikit-learn, NLP, CV  
+- **Description:** Built an NLP and CV-powered fraud detection and defect validation pipeline achieving 90%+ accuracy with interactive dashboards.  
+- **GitHub:** [Link](https://github.com/debasmita30/ai-return-assistant)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 💼 Experience
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### AI Trainer — Outlier.ai (Remote)  
+**June 2024 – Aug 2024**  
+- Designed prompt engineering frameworks and optimized model reasoning using LLM evaluations.  
+- Enhanced contextual accuracy by 25% and refined RLHF-based fine-tuning for consistency.
 
-## Learn More
+### Team Lead — BinaryBlitz Hackathon (Coding Ninjas LPU)  
+**April 2024**  
+- Led a team to develop an AI-driven web vulnerability detection system with automated risk scoring.  
+- Integrated real-time analytics and recognized for innovative problem-solving and leadership.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🎓 Certifications
+- Oracle Data Science Professional (1Z0-1110-25) — Oracle  
+- Google Advanced Data Analytics — Coursera  
+- IBM Python for Data Science, AI & Development — Coursera  
+- Learn SQL Basics for Data Science — Coursera  
+- Microsoft Power BI Data Analyst — Coursera  
+- IBM Generative AI Engineering — Coursera  
+- Microsoft AI & ML Engineering — Coursera  
+- MLOps | Machine Learning Operations — Coursera  
+- Oracle Generative AI Professional (1Z0-1127-25) — Oracle  
 
-### Code Splitting
+*(Clickable certificates are included in the portfolio website.)*
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 📫 Contact Me
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you want to get in touch, feel free to reach out via email: [dmchatterjee2016@gmail.com](mailto:dmchatterjee2016@gmail.com)  
 
-### Making a Progressive Web App
+Or connect with me on:  
+- [GitHub](https://github.com/debasmita30)  
+- [LinkedIn](https://linkedin.com/in/debasmita30)  
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## ⚡ Portfolio Live
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+You can view my live portfolio here: [Portfolio Link](https://your-netlify-link.netlify.app/)  
 
-### Deployment
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# PortFolio-DataScience
->>>>>>> b38f5355482883770961e5c45ae2d644b99404f2
+*Made with ❤️ using React, Three.js, TailwindCSS & Framer Motion.*
