@@ -10,7 +10,7 @@ I am a data scientist specializing in GenAI and emotionally intelligent AI syste
 
 - 📍 Location: Asansol, West Bengal, India  
 - 📧 Contact: [dmchatterjee2016@gmail.com](mailto:dmchatterjee2016@gmail.com)  
-- 🌐 Website: [Portfolio Live](https://your-netlify-link.netlify.app/)  
+- 🌐 Website: [Portfolio Live](https://debasmitachatterjee.netlify.app/)  
 
 ---
 
