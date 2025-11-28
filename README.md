@@ -16,16 +16,10 @@ I am a data scientist specializing in GenAI and emotionally intelligent AI syste
 
 ## 🛠 Skills & Tools
 
-### Core Skills
-- Python | R | SQL | Scala  
-- TensorFlow | PyTorch | Keras | Scikit-learn  
-- Transformer NLP (BERT/GPT) | Reinforcement Learning (PPO) | Computer Vision  
-- Pandas | NumPy | Matplotlib | Statistical Modeling  
-
+### ⭐ Core Skills
+- Python R SQL Statistical Modeling Hypothesis Testing A/B Testing Regression Classification Clustering Feature Engineering EDA Cohort Analysis Funnel Analysis Product Analytics
 ### Tools & Visualization
-- Tableau | Power BI | Streamlit | Plotly  
-- Apache Spark | Git | RStudio | Unity | Blender  
-
+- Power BI Tableau Excel Plotly Matplotlib Seaborn Streamlit Apache Spark Git Jupyter RStudio
 ---
 
 ## 📂 Projects
